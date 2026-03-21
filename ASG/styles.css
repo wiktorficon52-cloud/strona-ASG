@@ -1,0 +1,49 @@
+body {
+    background-color: DarkOliveGreen;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+ul.topnav {
+    display: flex;
+    list-style-type: none;
+    margin: 65px;
+    padding: 0;
+}
+
+h1 {
+    margin-top: 67px;
+}
+
+header {
+    display:flex;
+    background-color: rgb(68, 92, 57);
+    border: #000000;
+    border-radius: 10px;
+}
+
+/* Style links in topnav */
+ul.topnav li a {
+    display: block;
+    color: #000000;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+
+a  {
+    display: block;
+    color: #000000;
+    padding: 14px 20px;
+    text-decoration: none;
+}
+#zdjASG {
+    width: 600px;
+    height: 700px;
+}
+#replikaASG {
+    width: 400px;
+    height: 300px;
+}
+#zima img {
+    width:735px;
+    height: 480px;
+}
